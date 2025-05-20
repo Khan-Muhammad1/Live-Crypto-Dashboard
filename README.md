@@ -1,5 +1,5 @@
 # Live Crypto Dashboard
-Overview
+
 This Live Cryptocurrency Analytics Dashboard is a Python and Power BI application designed to track and visualize real-time price data for Bitcoin and Ethereum. It automates data collection using the CoinGecko API, processes 30 days of price history with Pandas, and presents insights through an interactive Power BI dashboard. 
 
 🔍 Features
